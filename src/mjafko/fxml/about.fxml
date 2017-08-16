@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="235.0" layoutY="14.0" text="About">
+         <font>
+            <Font size="36.0" />
+         </font></Label>
+      <Label layoutX="9.0" layoutY="58.0" prefHeight="166.0" prefWidth="583.0" text="Sem Marko Divjak.Program je bil narejen izključno zaradi,učenja java jezika. V kolikor, so še kakšne želje, me lahko kontaktirate in z veseljembom dodelal oz. popravil.E-mail : marko.divjak@hotmail.com" textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Hack Regular" size="13.0" />
+         </font></Label>
+   </children>
+</AnchorPane>
